@@ -12,6 +12,4 @@ const pool = new Pool({
 
 });
 
-module.exports = {
-    pool
-};
+module.exports = pool;
